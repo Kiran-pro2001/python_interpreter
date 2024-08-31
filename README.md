@@ -12,6 +12,6 @@ I have created my own "Online IDE", which has the below features -
 - You can increase or decrease the font size as well (Best feature for mobile user). 
 - You can create multiple files over there.
 
-It can be a go to place for all Python Developers. You can bookmark this Python Interpreter. 
+It can be a go to place for all Python Developers. You can bookmark this Online IDE. 
 
 
